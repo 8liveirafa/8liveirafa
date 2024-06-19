@@ -8,13 +8,13 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=8liveirafa&layout=compact&langs_count=7&theme=dark"/>
 </div>
  <div style="display: inline_block"><br>
-  <img align="center" alt="8liveirafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="8liveirafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="8liveirafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="8liveirafa-Js" height="30" width="40" src="https://www.svgrepo.com/show/354321/selenium.svg">
-  <img align="center" alt="8liveirafa-Js" height="30" width="40" src="https://static-00.iconduck.com/assets.00/cypress-icon-512x511-29zvfts6.png">
-  <img align="center" alt="8liveirafa-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/playwright/playwright-original.svg" />>
-
+  <img align="center" alt="herzio-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="herzio-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="herzio-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="herzio-Js" height="30" width="40" src="https://www.svgrepo.com/show/354321/selenium.svg">
+  <img align="center" alt="herzio-Js" height="30" width="40" src="https://static-00.iconduck.com/assets.00/cypress-icon-512x511-29zvfts6.png">
+  <img align="center" alt="herzio-Js" height="30" width="40" src="https://seeklogo.com/images/P/playwright-logo-22FA8B9E63-seeklogo.com.png">
+  <img align="center" alt="herzio-Js" height="30" width="40" src="https://www.svgrepo.com/show/354202/postman-icon.svg">
 </div>
 
 ##
