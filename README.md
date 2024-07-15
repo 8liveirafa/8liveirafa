@@ -1,6 +1,6 @@
 ## Hello World! Eu sou o Rafael Oliveira!
 
-- 📖 Estudante de QA (Quality Assurance Engineer)
+- 📖 Quality Assurance Engineer Junior 
 
 <div align="center">
   <a href="https://github.com/8liveirafa">
