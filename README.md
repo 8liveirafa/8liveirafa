@@ -15,7 +15,7 @@
   <img align="center" alt="herzio-Js" height="30" width="40" src="https://static-00.iconduck.com/assets.00/cypress-icon-512x511-29zvfts6.png">
   <img align="center" alt="herzio-Js" height="30" width="40" src="https://seeklogo.com/images/P/playwright-logo-22FA8B9E63-seeklogo.com.png">
   <img align="center" alt="herzio-Js" height="30" width="40" src="https://www.svgrepo.com/show/354202/postman-icon.svg">
-  <img align="center" alt="herzio-Js" height="30" width="40" src="https://www.vectorlogo.zone/logos/cucumberio/cucumberio-icon.sv">
+  <img align="center" alt="herzio-Js" height="30" width="40" src="https://www.vectorlogo.zone/logos/cucumberio/cucumberio-icon.svg">
 </div>
 
 ##
